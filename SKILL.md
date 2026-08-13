@@ -3,7 +3,7 @@ name: cliche-verwijderaar
 description: Verwijdert versleten formuleringen, voorspelbare taalpatronen en lege beeldspraak uit Nederlandse teksten, zonder feiten, betekenis of de eigen stem van de schrijver te veranderen.
 ---
 
-# De Grote Clichéverwijderaar
+# De Clichéverwijderaar
 
 ## Belofte
 

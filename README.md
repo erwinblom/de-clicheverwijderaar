@@ -1,8 +1,8 @@
-# De Grote Clichéverwijderaar
+# De Clichéverwijderaar
 
 > **Schrap de clichés, niet de schrijver.**
 
-De Grote Clichéverwijderaar haalt versleten formuleringen, lege beeldspraak,
+De Clichéverwijderaar haalt versleten formuleringen, lege beeldspraak,
 voorspelbare gedachten en automatische schrijfpatronen uit Nederlandse teksten.
 Dat kunnen menselijke stopzinnen zijn, maar ook typische AI-clichés.
 
@@ -49,11 +49,11 @@ redigeert tekst; hij bewijst niet wie of wat de tekst heeft geschreven.
 
 ## Gebruik
 
-Plaats de map `de-grote-clicheverwijderaar` in de skillsmap van een omgeving die
+Plaats de map `de-clicheverwijderaar` in de skillsmap van een omgeving die
 `SKILL.md` ondersteunt. Geef daarna bijvoorbeeld de opdracht:
 
 ```text
-Gebruik De Grote Clichéverwijderaar voor deze tekst. Intensiteit: standaard.
+Gebruik De Clichéverwijderaar voor deze tekst. Intensiteit: standaard.
 
 [tekst]
 ```
@@ -61,11 +61,11 @@ Gebruik De Grote Clichéverwijderaar voor deze tekst. Intensiteit: standaard.
 Andere mogelijke opdrachten:
 
 ```text
-Pas De Grote Clichéverwijderaar licht toe. Verander alleen de opvallendste clichés.
+Pas De Clichéverwijderaar licht toe. Verander alleen de opvallendste clichés.
 ```
 
 ```text
-Redigeer deze tekst stevig met De Grote Clichéverwijderaar, maar verander geen
+Redigeer deze tekst stevig met De Clichéverwijderaar, maar verander geen
 feiten, citaten of vaktermen.
 ```
 
@@ -102,7 +102,7 @@ wijzigingen.
 Voorbeeld:
 
 ```text
-Gebruik De Grote Clichéverwijderaar voor deze tekst.
+Gebruik De Clichéverwijderaar voor deze tekst.
 Intensiteit: 3. Terugbrengen tot de kern.
 Samenwerking: samen.
 
@@ -138,3 +138,8 @@ Nieuwe Nederlandse clichés en goede voor-en-na-voorbeelden zijn welkom. Dat
 geldt ook voor clichés die vaak in AI-tekst voorkomen. Voeg alleen patronen toe
 die regelmatig voorkomen. Maak van de skill geen lijst met woorden die onder
 alle omstandigheden verboden zijn.
+
+## Ook beschikbaar
+
+[De Tegenlezer](https://github.com/erwinblom/de-tegenlezer) vindt vóór publicatie
+waar een lezer kan afhaken, zich kan ergeren of een claim niet gelooft.
